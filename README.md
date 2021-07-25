@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End 
 ## Table of Contents
 
 1. [Description](#description)
@@ -22,8 +22,8 @@
 10. [Credits](#credits)
 
 ## Description
-A n e-commerce site back end taking a working Express.js API and configuring it to use Sequelize to
-interact with a MySQL database
+An e-commerce site back end taking a working Express.js API and configuring it to use
+Sequelize to interact with a MySQL database
 
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
@@ -39,17 +39,23 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
-npm initialize
+GIT CLONE REPOSITORY AND ENTER THE FOLLOWING COMMANDS IN THE CLI:
 
-npm install express sequelize mysql2
+  npm install
 
-source db/schema.sql
-
-use ecommerce_db
-
-npm run seed
-
-node server.js
+  mysql -u root -p
+  
+  (enter password)
+  
+  use ecommerce_db
+  
+  source db\schema.sql   
+  
+  quit
+  
+  npm run seed
+  
+  node server.js
 
 ## Usage
 
