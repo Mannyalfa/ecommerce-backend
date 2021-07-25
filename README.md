@@ -38,7 +38,18 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
-Application requires no installation
+
+npm initialize
+
+npm install express sequelize mysql2
+
+source db/schema.sql
+
+use ecommerce_db
+
+npm run seed
+
+node server.js
 
 ## Usage
 
