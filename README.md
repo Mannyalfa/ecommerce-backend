@@ -101,4 +101,4 @@ Manny Alfaro
 
 UCF-VIRT-BO-FSF-PT-04-2021-U-B
 
-### If you have any additional questions regarding this project, please contact: mannyalfa@gmail.com
+### If you have any questions, please contact: mannyalfa@gmail.com
