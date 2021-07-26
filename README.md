@@ -74,7 +74,7 @@ CLI commands:
 MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Image
-![screenshot]
+![screenshot](https://github.com/Mannyalfa/ecommerce-backend/blob/main/images/screenshot.jpg)
 
 ## Languages/Applications
 JavaScript, Node.js, Express.js, MYSQL2, Sequelize, Dotenv, Insomnia
@@ -93,6 +93,7 @@ Technical Acceptance Criteria:
 https://drive.google.com/file/d/1tJ4ij014nroNlHKwCZENvK62jMTQX8QN/view?usp=sharing
 
 API Category/Product/Tag Routes Walkthrough with 'Insomnia':
+
 https://drive.google.com/file/d/1fm5h5Yre5VbPUklEG1ePyJQVfy9Y3J58/view?usp=sharing
     
 ## Credits
