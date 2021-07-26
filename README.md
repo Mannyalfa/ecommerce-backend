@@ -46,7 +46,7 @@ THEN I am able to successfully create, update, and delete data in my database
 MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Languages/Applications
-JavaScript, Node.js, Express.js, MYSQL2, Sequelize, Doteny, Insomnia
+JavaScript, Node.js, Express.js, MYSQL2, Sequelize, Dotenv, Insomnia
 
 ## Repository URL
 https://github.com/Mannyalfa/ecommerce-backend
@@ -60,6 +60,7 @@ Technical Acceptance Criteria:
 https://drive.google.com/file/d/1tJ4ij014nroNlHKwCZENvK62jMTQX8QN/view?usp=sharing
 
 API Category/Product/Tag Routes Walkthrough with 'Insomnia':
+https://drive.google.com/file/d/1fm5h5Yre5VbPUklEG1ePyJQVfy9Y3J58/view?usp=sharing
 
 
     
