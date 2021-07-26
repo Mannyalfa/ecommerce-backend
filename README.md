@@ -9,8 +9,6 @@
 
 4. [License](#license)
 
-5. [Image](#Image)
-
 6. [Languages/Applications](#languages-applications)
 
 7. [Repository URL](#repository-url)
@@ -39,23 +37,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
-GIT CLONE REPOSITORY AND ENTER THE FOLLOWING COMMANDS IN THE CLI:
-
-  npm install
-
-  mysql -u root -p
-  
-  (enter password)
-  
-  use ecommerce_db
-  
-  source db\schema.sql   
-  
-  quit
-  
-  npm run seed
-  
-  node server.js
+-See installation video under 'Test-Demo' (below)
 
 ## Usage
 
@@ -63,18 +45,21 @@ GIT CLONE REPOSITORY AND ENTER THE FOLLOWING COMMANDS IN THE CLI:
 ## License
 MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Images
-![screenshot]()
-
-![screenshot]()
-
 ## Languages/Applications
-JavaScript, Node.js, Express.js, MYSQL2, Sequelize, Doteny
+JavaScript, Node.js, Express.js, MYSQL2, Sequelize, Doteny, Insomnia
 
 ## Repository URL
-hhttps://github.com/Mannyalfa/ecommerce-backend
+https://github.com/Mannyalfa/ecommerce-backend
 
-## Walkthrough Video
+## Test-Demo
+
+Installation:
+https://drive.google.com/file/d/1ru0Wijqz7mDvnGuTjW4LjuN39rmaKFqn/view?usp=sharing
+
+Technical Acceptance Criteria:
+https://drive.google.com/file/d/1tJ4ij014nroNlHKwCZENvK62jMTQX8QN/view?usp=sharing
+
+API Category/Product/Tag Routes Walkthrough with 'Insomnia':
 
 
     
