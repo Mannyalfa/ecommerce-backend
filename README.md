@@ -4,21 +4,22 @@
 
 1. [Description](#description)
 
-2. [Installation](#installation)
+2. [Languages/Applications](#languages-applications) 
 
-4. [License](#license)
+3. [License](#license)
 
-5. [Images](#Images)
+4. [Repository URL](#repository-url)
 
-6. [Languages/Applications](#languages-applications)
+5. [Installation](#installation) 
 
-7. [Repository URL](#repository-url)
+6.[Images](#Images) 
 
-8. [Test-Demo](#test-demo)
+7. [Test-Demo](#test-demo)
 
-9. [Credits](#credits)
+8. [Credits](#credits)
 
 ## Description
+
 An e-commerce site back end taking a working Express.js API and configuring it to use
 Sequelize to interact with a MySQL database
 
@@ -44,8 +45,17 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 
 THEN I am able to successfully create, update, and delete data in my database
 
-## Installation
+## Languages/Applications
 
+JavaScript, Node.js, Express.js, MYSQL2, Sequelize, Dotenv, Insomnia
+
+## License
+MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Repository URL
+https://github.com/Mannyalfa/ecommerce-backend
+
+## Installation
 After cloning the repository, execute the following commands:
 	$ npm install
     	
@@ -65,30 +75,21 @@ After cloning the repository, execute the following commands:
 
 (See installation video under 'Test-Demo' below)
 
-## License
-MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Images
 Initialize MySQL and source schema:
-![screenshot]()
+![screenshot](https://github.com/Mannyalfa/ecommerce-backend/blob/main/images/mysql-setup.jpg)
 
 Seeding the database:
-![screenshot]()
+![screenshot](https://github.com/Mannyalfa/ecommerce-backend/blob/main/images/seed-database.jpg)
 
-Seeding the database:
-![screenshot]()
+Starting the server:
+![screenshot](https://github.com/Mannyalfa/ecommerce-backend/blob/main/images/start-server.jpg)
 
 Ready to test routes
 ![screenshot](https://github.com/Mannyalfa/ecommerce-backend/blob/main/images/screenshot.jpg)
 
-## Languages/Applications
-JavaScript, Node.js, Express.js, MYSQL2, Sequelize, Dotenv, Insomnia
-
-## Repository URL
-https://github.com/Mannyalfa/ecommerce-backend
-
 ## Test-Demo
-
 Installation:
 
 https://drive.google.com/file/d/1ru0Wijqz7mDvnGuTjW4LjuN39rmaKFqn/view?usp=sharing
@@ -101,9 +102,11 @@ API Category/Product/Tag Routes Walkthrough with 'Insomnia':
 
 https://drive.google.com/file/d/1fm5h5Yre5VbPUklEG1ePyJQVfy9Y3J58/view?usp=sharing
     
+
 ## Credits
 Manny Alfaro
 
 UCF-VIRT-BO-FSF-PT-04-2021-U-B
+
 
 ### If you have any questions, please contact: mannyalfa@gmail.com
