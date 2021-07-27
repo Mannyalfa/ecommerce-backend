@@ -76,7 +76,7 @@ After cloning the repository, execute the following commands:
 
 
 ## Images
-Initialize MySQL and source schema:
+Initialize MySQL and source the schema:
 ![screenshot](https://github.com/Mannyalfa/ecommerce-backend/blob/main/images/mysql-setup.jpg)
 
 Seeding the database:
