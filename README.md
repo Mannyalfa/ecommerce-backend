@@ -1,18 +1,17 @@
 # E-commerce Back End 
 
 ## Table of Contents
-
 1. [Description](#description)
 
-2. [Languages/Applications](#languages-applications) 
+2. [Languages/Applications](#languages-applications)
 
 3. [License](#license)
 
 4. [Repository URL](#repository-url)
 
-5. [Installation](#installation) 
+5. [Installation](#installation)
 
-6.[Images](#Images) 
+6. [Images](#Images)
 
 7. [Test-Demo](#test-demo)
 
