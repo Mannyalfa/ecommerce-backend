@@ -93,11 +93,11 @@ Installation:
 
 https://drive.google.com/file/d/1ru0Wijqz7mDvnGuTjW4LjuN39rmaKFqn/view?usp=sharing
 
-Technical Acceptance Criteria:
+Technical Acceptance Criteria Walkthrough:
 
 https://drive.google.com/file/d/1tJ4ij014nroNlHKwCZENvK62jMTQX8QN/view?usp=sharing
 
-API Category/Product/Tag Routes Walkthrough with 'Insomnia':
+API Category/Product/Tag Routes Demo with 'Insomnia':
 
 https://drive.google.com/file/d/1fm5h5Yre5VbPUklEG1ePyJQVfy9Y3J58/view?usp=sharing
     
