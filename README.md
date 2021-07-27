@@ -8,7 +8,7 @@
 
 4. [License](#license)
 
-5. [Image](#Image)
+5. [Images](#Images)
 
 6. [Languages/Applications](#languages-applications)
 
@@ -68,7 +68,17 @@ After cloning the repository, execute the following commands:
 ## License
 MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Image
+## Images
+Initialize MySQL and source schema:
+![screenshot]()
+
+Seeding the database:
+![screenshot]()
+
+Seeding the database:
+![screenshot]()
+
+Ready to test routes
 ![screenshot](https://github.com/Mannyalfa/ecommerce-backend/blob/main/images/screenshot.jpg)
 
 ## Languages/Applications
