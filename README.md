@@ -14,12 +14,9 @@
 
 7. [Repository URL](#repository-url)
 
-
 8. [Test-Demo](#test-demo)
 
-9. [Website](#website)
-
-10. [Credits](#credits)
+9. [Credits](#credits)
 
 ## Description
 An e-commerce site back end taking a working Express.js API and configuring it to use
@@ -49,10 +46,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
-Git clone repository
-
-CLI commands:
-	    $ npm install
+After cloning the repository, execute the following commands:
+	$ npm install
     	
         $ mysql -u root -p
     	
